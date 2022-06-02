@@ -1,0 +1,79 @@
+{
+  "companies": [
+    {
+      "id": "1",
+      "name": "Trendyol",
+      "legal_number": "327632731",
+      "incorporation_country": "Turkey",
+      "website": "https://www.trendyol.com/"
+    },
+    {
+      "id": "2",
+      "name": "n11",
+      "legal_number": "32763272",
+      "incorporation_country": "Turkey",
+      "website": "https://www.n11.com/"
+    },
+    {
+      "id": "3",
+      "name": "Sahibinden",
+      "legal_number": "32763273",
+      "incorporation_country": "Turkey",
+      "website": "https://www.sahibinden.com/"
+    },
+    {
+      "id": "4",
+      "name": "Teknosa",
+      "legal_number": "32763274",
+      "incorporation_country": "Turkey",
+      "website": "https://www.teknosa.com/"
+    },
+    {
+      "id": "5",
+      "name": "MediaMarkt",
+      "legal_number": "32763275",
+      "incorporation_country": "Turkey",
+      "website": "https://www.mediamarkt.com.tr/"
+    },
+    {
+      "id": "6",
+      "name": "Amazon",
+      "legal_number": "32763276",
+      "incorporation_country": "USA",
+      "website": "https://www.amazon.com.tr/"
+    },
+    {
+      "id": "W5K2X_O",
+      "name": "Letgo",
+      "legal_number": "312412312",
+      "incorporation_country": "Turkey",
+      "website": "https://www.letgo.com/tr-tr"
+    }
+  ],
+  "products": [
+    {
+      "id": "3",
+      "name": "Parfum",
+      "category": "Kozmetik",
+      "amount": 3,
+      "amount_unit": "Adet",
+      "company_id": "2"
+    },
+    {
+      "company_id": "4",
+      "name": "Monster Notebook",
+      "category": "Bilgisayar",
+      "amount": "99",
+      "amount_unit": "Adet",
+      "id": "lBRbK6p"
+    },
+    {
+      "company_id": "6",
+      "name": "Keychron Klavye",
+      "category": "Elektronik",
+      "amount": "2",
+      "amount_unit": "Tane",
+      "id": "RnFSyV_"
+    }
+  ]
+}
